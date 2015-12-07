@@ -1,0 +1,26 @@
+<TaskerData sr="" dvi="1" tv="4.6u3m">
+	<Profile sr="prof11" ve="2">
+		<cdate>1432346576392</cdate>
+		<clp>true</clp>
+		<edate>1449461301474</edate>
+		<id>11</id>
+		<mid0>12</mid0>
+		<nme>Display On</nme>
+		<Event sr="con0" ve="2">
+			<code>208</code>
+		</Event>
+	</Profile>
+	<Task sr="task12">
+		<cdate>1432346610476</cdate>
+		<edate>1449461301474</edate>
+		<id>12</id>
+		<nme>On Display On, Set Cpu Up</nme>
+		<Action sr="act0" ve="7">
+			<code>915</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">ondemand</Str>
+			<Int sr="arg2" val="432000"/>
+			<Int sr="arg3" val="1512000"/>
+		</Action>
+	</Task>
+</TaskerData>
