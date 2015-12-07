@@ -1,0 +1,26 @@
+<TaskerData sr="" dvi="1" tv="4.6u3m">
+	<Profile sr="prof9" ve="2">
+		<cdate>1432328548566</cdate>
+		<clp>true</clp>
+		<edate>1449461286926</edate>
+		<id>9</id>
+		<mid0>10</mid0>
+		<nme>Display Off</nme>
+		<Event sr="con0" ve="2">
+			<code>210</code>
+		</Event>
+	</Profile>
+	<Task sr="task10">
+		<cdate>1432328578627</cdate>
+		<edate>1449461286926</edate>
+		<id>10</id>
+		<nme>On Display Off, Set Cpu Down</nme>
+		<Action sr="act0" ve="7">
+			<code>915</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">powersave</Str>
+			<Int sr="arg2" val="432000"/>
+			<Int sr="arg3" val="432000"/>
+		</Action>
+	</Task>
+</TaskerData>
